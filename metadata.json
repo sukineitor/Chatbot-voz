@@ -1,0 +1,7 @@
+{
+  "name": "Sabor Peruano AI Assistant",
+  "description": "A conversational chatbot for the 'Sabor Peruano' restaurant, featuring voice recognition, a menu modal, and the ability to handle reservations and delivery orders.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
